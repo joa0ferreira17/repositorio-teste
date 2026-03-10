@@ -19,7 +19,7 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("Teste Git");
+            MessageBox.Show("Teste Gi");
     }
     }
 }
